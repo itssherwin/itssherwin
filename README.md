@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 
-<!--
-**itssherwin/itssherwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+  🧠 Curious mind in a noisy world — I tear into systems, hunt down assumptions, and stitch up security holes.<br>
+  👣 From bare-metal boxes to cloud fog — I map, break, and occasionally rebuild.
+</p>
+
+### 🧷 What I Do
+- 🧪 Security testing where logic flaws hide, not just where scanners scream
+- 🐚 Infra hardening born from hands-on Linux trenches (LPIC-1/2/303)
+- 🛰️ Recon frameworks built for real-world signal, not shiny dashboards
+- 🎯 Offense-driven defense — phishing, LVE abuse, dev misconfigs, and more
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📡 Current Focus
+Working on internal automation tools for bug bounty & exploit workflows.
+
+### 🌐 Find me elsewhere
+- 💼 [LinkedIn]([sherwin-enayati](https://www.linkedin.com/in/sherwin-enayati/))
+- 🧠 [Blog](https://sherwiin.me)
+
