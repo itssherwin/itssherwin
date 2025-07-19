@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 Working on internal automation tools for bug bounty & exploit workflows.
 
 ### 🌐 Find me elsewhere
-- 💼 [LinkedIn]([sherwin-enayati](https://www.linkedin.com/in/sherwin-enayati/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/sherwin-enayati/)
 - 🧠 [Blog](https://sherwiin.me)
 
