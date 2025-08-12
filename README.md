@@ -12,8 +12,6 @@
 - 🛰️ Recon frameworks built for real-world signal, not shiny dashboards
 - 🎯 Offense-driven defense — phishing, LVE abuse, dev misconfigs, and more
 
-Here are some ideas to get you started:
-
 ### 📡 Current Focus
 Working on internal automation tools for bug bounty & exploit workflows.
 
