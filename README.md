@@ -17,5 +17,5 @@ Working on internal automation tools for bug bounty & exploit workflows.
 
 ### 🌐 Find me elsewhere
 - 💼 [LinkedIn](https://www.linkedin.com/in/sherwin-enayati/)
-- 🧠 [Blog](https://sherwiin.me)
+- 🧠 [sherwin.rocks](https://sherwin.rocks)
 
