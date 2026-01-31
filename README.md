@@ -1,21 +1,25 @@
-<h1 align="center"> Hi there 👋 </h1>
-
+<h1 align="center">Hi, I'm Sherwin 👋</h1>
 
 <p align="center">
-  🧠 Curious mind in a noisy world — I tear into systems, hunt down assumptions, and stitch up security holes.<br>
-  👣 From bare-metal boxes to cloud fog — I map, break, and occasionally rebuild.
+Cyber Security Engineer / Penetration Tester with 4+ years of hands-on experience<br>
+Web, Network, and Active Directory security assessments
 </p>
 
-### 🧷 What I Do
-- 🧪 Security testing where logic flaws hide, not just where scanners scream
-- 🐚 Infra hardening born from hands-on Linux trenches (LPIC-1/2/303)
-- 🛰️ Recon frameworks built for real-world signal, not shiny dashboards
-- 🎯 Offense-driven defense — phishing, LVE abuse, dev misconfigs, and more
+### 🔐 What I Do
+- Web, network, and internal penetration testing (enterprise & government systems)
+- Active Directory security reviews, privilege escalation, and credential abuse
+- Vulnerability exploitation with clear remediation and re-test validation
+- Phishing simulations and offense-driven security assessments
 
-### 📡 Current Focus
-Working on internal automation tools for bug bounty & exploit workflows.
+### 🛠️ Core Skills
+- **Offensive Security:** Web & Network Pentesting, AD Security, Exploitation  
+- **Tools:** Burp Suite, Nmap, Metasploit, BloodHound, Impacket, Nessus  
+- **Tech:** Linux, Windows, Active Directory, Networking, REST APIs, Python  
+- **Standards:** OWASP Top 10, secure configuration review
 
-### 🌐 Find me elsewhere
+### 🎯 Current Focus
+Internal security automation, bug bounty workflows, and advanced AD attack paths.
+
+### 🌐 Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/sherwin-enayati/)
-- 🧠 [sherwin.rocks](https://sherwin.rocks)
-
+- 🌍 [sherwin.rocks](https://sherwin.rocks)
